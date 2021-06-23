@@ -81,12 +81,6 @@ Next steps:
 - Knowledge Graph
 - Use distributed Deep Learning
 - Use TensorNetwork to accelerate Neural Networks
-- Select a class of models with the right method and does hyperparameters tuning 
+- Select a class of models with the right method and does hyperparameters tuningÂ 
 - Use Quantum NLP (QNLP)
 ---
-## Contribution
-Your contributions are always welcome!
-
-If you want to contribute to this list (please do), send me a pull request or contact me [@chris](twitter.com/Christo35427519) or [chris](linkedin.com/in/phdchristophepere)
-
---- 
